@@ -161,6 +161,7 @@ def menu_apikey():
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
+    │ [✓] TYPE     : FREE,Frist Aproved     │
     │ [✓] WHATSAPP : +8801615161056         │
     │ [✓] VERSION  : XNXX                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
@@ -219,6 +220,7 @@ logo=(f"""\x1b[1;97m
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
+    │ [✓] TYPE     : FREE,Frist Aproved     │
     │ [✓] WHATSAPP : +8801615xxxx056        │
     │ [✓] VERSION  : XNXX                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
@@ -281,7 +283,7 @@ def admin():
 		os.system('xdg-open https://wa.me/+8801615161056');time.sleep(1)
 		admin()
 	if bal =='2':
-		os.system('xdg-open https://www.facebook.com/sat.shahinyt');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/mdnasrullha.jubaer');time.sleep(1)
 		admin()
 	if bal =='3':
 		os.system('xdg-open https://youtube.com/channel/UCk-u5MzpXGsHJDvtPAW-zbg');time.sleep(1)
