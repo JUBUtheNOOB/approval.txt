@@ -219,7 +219,7 @@ logo=(f"""\x1b[1;97m
 
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
-    │ [✓] GITHUB   : JUBU the NOOB 💗       │
+    │ [✓] GITHUB   : JUBU the NOOB          │
     │ [✓] TYPE     : FREE,Frist Aproved     │
     │ [✓] WHATSAPP : +8801615xxxx056        │
     │ [✓] VERSION  : XNXX                   │
