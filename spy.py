@@ -163,7 +163,7 @@ def menu_apikey():
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
     │ [✓] TYPE     : FREE,Frist Aproved     │
     │ [✓] WHATSAPP : +8801615161056         │
-    │ [✓] VERSION  : XNXX                   │
+    │ [✓] VERSION  :  0.1                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN VIRUS TEAM-NSN & ANONYMOUS CYBER ™ \033[1;37m ")
@@ -222,7 +222,7 @@ logo=(f"""\x1b[1;97m
     │ [✓] GITHUB   : JUBU the NOOB          │
     │ [✓] TYPE     : FREE,Frist Aproved     │
     │ [✓] WHATSAPP : +8801615xxxx056        │
-    │ [✓] VERSION  : XNXX                   │
+    │ [✓] VERSION  : 0.1                    │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
 def cek_apk(session,coki):
