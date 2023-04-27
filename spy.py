@@ -161,7 +161,7 @@ def menu_apikey():
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
-    │ [✓] TYPE     : PAID$, FREE☺️          │
+    │ [✓] TYPE     : PAID$, FREE☺️           │
     │ [✓] WHATSAPP : +8801834292903         │
     │ [✓] VERSION  :  0.1                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
