@@ -1,6 +1,6 @@
-#SPY(SAT SHAHIN YT)(SHAHI. ALAM)
-#WhatsApp : 01615161056
-#Github : SPY1x1
+#JUBU(JUBU the NOOB)(MD NASRALLAH JUBAIR)
+#WhatsApp : 01834292903
+#Github : JUBUthe NOOB
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
 #!/usr/bin/python3
@@ -161,7 +161,7 @@ def menu_apikey():
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
-    │ [✓] TYPE     : PAID$, PAID            │
+    │ [✓] TYPE     : PAID$, FREE☺️          │
     │ [✓] WHATSAPP : +8801834292903         │
     │ [✓] VERSION  :  0.1                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
