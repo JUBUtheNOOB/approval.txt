@@ -254,9 +254,9 @@ def menu():
 	banner()
 	#ip = requests.get("https://api.ipify.org").text
 	(f'\033[1;92m[\033[1;34m1\033[1;92m] FILE CLONE')
-	(f'\033[1;92m[\033[1;92m\033[1;34m2\033[1;92m] RANDOM CLONE')
+	(f'\032[1;92m[\033[1;92m\033[1;34m2\033[1;92m] RANDOM CLONE')
 	(f'\033[1;92m[\033[1;92m\033[1;34m3\033[1;92m] EMAIL CLONE')
-	(f'[\033[1;92m\033[1;34m4\033[1;92m] CONTACT ME')
+	(f'[\032[1;92m\033[1;34m4\033[1;92m] CONTACT ME')
 	(f'\033[1;92m[\033[1;34m0\033[1;92m]\033[0;91m EXIT')
 	_____ALAMIN_____ = input('\033[1;92m[\033[1;34m\033[1;92m]\033[0;92mCHOOSE :\x1b[1;92m ')
 	if _____ALAMIN_____ in ['1']:
