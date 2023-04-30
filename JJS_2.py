@@ -406,7 +406,7 @@ logo = ("""\033[1;37m
 """)      
 ________________________________________
   
-  AUTHOR   :  JJS404-CYBER TEAM
+  AUTHOR   :  JJS
  WHATSAPP  :  018********
   GITHUB   :  JJS404-CYBER
 TOOLS TYPE :  FREE
