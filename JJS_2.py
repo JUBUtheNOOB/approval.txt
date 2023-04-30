@@ -407,9 +407,13 @@ logo = ("""\033[1;37m
 ________________________________________________________
   
   Auther   :  JULKER x JUBAYER x SHARIA
+	
  WHATSAPP  :  018********
+	
   GITHUB   :  JJS404-CYBER
+	
 TOOLS TYPE :  FREE
+	
   FACEBOOK :  MD MASRULLHA JUBAIR
   
 ________________________________________________________\033[1;37m""")
