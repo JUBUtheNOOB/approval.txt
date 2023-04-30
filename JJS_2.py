@@ -404,15 +404,15 @@ logo = ("""\033[1;37m
        JULKER              JUBAYER.            SAHARIA
                                    
 """)      
-________________________________________
+________________________________________________________
   
-  Auther   :  JULKER xJUBAYER xSHARIA
+  Auther   :  JULKER x JUBAYER x SHARIA
  WHATSAPP  :  018********
   GITHUB   :  JJS404-CYBER
 TOOLS TYPE :  FREE
   FACEBOOK :  MD MASRULLHA JUBAIR
   
-________________________________________\033[1;37m""")
+________________________________________________________\033[1;37m""")
 
 class Main:
 	def __init__(self):
