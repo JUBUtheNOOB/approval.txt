@@ -2,7 +2,7 @@
 
 #WA:08976622679
 
-import requests,bs4,rich,os,sys,random,re,datetime,time,json,stdiomask
+import requests,bs4,rich,os,sys,random,re,datetime,time,json
 
 from concurrent.futures import ThreadPoolExecutor as tread
 
