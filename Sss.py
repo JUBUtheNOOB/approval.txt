@@ -307,18 +307,18 @@ def menu_apikey():
 
 
 
-BOOM UPDATE💥
+      BOOM UPDATE💥
 
-ACTIVE ALL TIME...
+      ACTIVE ALL TIME...
                                                         
 
-  PAID BRO... 😘                                                     
-  5 DAYS 50৳
-  7 DAYS 100৳
-  15 DAYS 200৳
+     PAID BRO... 😘                                                     
+     5 DAYS 50৳
+     7 DAYS 100৳
+    15 DAYS 200৳
 
 
-   |========================================================================================================
+   |========================================================================
    |
    |   [😎] AUTHOR   : Saiko Haker 
    |
@@ -332,7 +332,7 @@ ACTIVE ALL TIME...
    |
    |    [😎] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37mâ”‚
    |
-    ========================================================================================================˜""")
+   |=======================================================================˜""")
 
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU ðŸ˜ˆ\033[1;37m ")
 
@@ -427,16 +427,16 @@ logo=(f"""\x1b[1;97m
 
 
 
-BOOM💥
+    BOOM💥
 
-IF ID NOT COME CHANGE YOUR IP ADDRESS THEN RUN AGAIN
+    IF ID NOT COME CHANGE YOUR IP ADDRESS THEN RUN AGAIN
                                                         
 
                                                         
 
 
 
-   | ========================================================================================================
+   |===========================================================================
    |
    |  [☞] AUTHOR   : Saiko Haker ☆☆        
    |
@@ -450,7 +450,7 @@ IF ID NOT COME CHANGE YOUR IP ADDRESS THEN RUN AGAIN
    |
    |  [☞] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37mâ”‚
    |
-   | ========================================================================================================˜""")
+   |==========================================================================˜""")
 
 def cek_apk(session,coki):
 
@@ -594,7 +594,7 @@ def virus():
 
 	print(" Sim code Example : 016, 017, 018, 019")
 
-	kode = input(' [ðŸ’€] Enter sim code: ')
+	kode = input(' [☞] Enter sim code: ')
 
 	doamin = ' BD Number id cloner [CP-OK MIX] '
 
