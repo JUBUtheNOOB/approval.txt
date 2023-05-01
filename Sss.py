@@ -318,7 +318,7 @@ def menu_apikey():
     15 DAYS 200৳
 
 
-   |========================================================================
+   |=============================================================
    |
    |    [😎] AUTHOR   : Saiko Haker 
    |
@@ -332,7 +332,7 @@ def menu_apikey():
    |
    |    [😎] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m
    |
-   |=======================================================================""")
+   |=============================================================""")
 
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU ðŸ˜ˆ\033[1;37m ")
 
@@ -618,17 +618,17 @@ def virus():
 
 		tl = str(len(user))
 
-		print(' [ðŸ’”]  Total ids:\033[1;92m '+tl)
+		print(' [☞]  Total ids:\033[1;92m '+tl)
 
-		print(f' [ðŸ’”]  Usaragents : '+str(len(ugen)))
+		print(f' [☞]  Usaragents : '+str(len(ugen)))
 
-		print(f' [ðŸ’”]\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f' [☞]\033[1;97m  target sim code :\033[1;92m {kode} ')
 
-		print(f"\033[1;97m [ðŸ’”]  version:\033[1;92m {doamin}")
+		print(f"\033[1;97m [☞]  version:\033[1;92m {doamin}")
 
-		print(' \033[1;97m[ðŸ’”]  The process has been started')
+		print(' \033[1;97m[☞]  The process has been started')
 
-		print(' [ðŸ’”]  use airplane mode if ok ids not come ')
+		print(' [☞]  use airplane mode if ok ids not come ')
 
 		print(50*'_')
 
@@ -642,9 +642,9 @@ def virus():
 
 	print(50*'_')
 
-	print(' [ðŸ’”] Crack process has been completed')
+	print(' [😔] Crack process has been completed')
 
-	print(' [ðŸ’”] Ids saved in ok.txt,cp.txt')
+	print(' [😔] Ids saved in ok.txt,cp.txt')
 
 	print(50*'_')
 
@@ -684,15 +684,15 @@ def virus2():
 
 		tl = str(len(user))
 
-		print(' [ðŸ¤«]  Total ids:\033[1;92m '+tl)
+		print(' [😊]  Total ids:\033[1;92m '+tl)
 
-		print(f' [ðŸ¤«]  Usaragents : '+str(len(ugen)))
+		print(f' [😊]  Usaragents : '+str(len(ugen)))
 
-		print(f' [ðŸ¤«]\033[1;97m  target sim code :\033[1;92m {kode} ')
+		print(f' [😊]\033[1;97m  target sim code :\033[1;92m {kode} ')
 
-		print(f"\033[1;97m [ðŸ¤«]  version:\033[1;92m {doamin}")
+		print(f"\033[1;97m [😎]  version:\033[1;92m {doamin}")
 
-		print(' \033[1;97m[ðŸ¤«]  The process has been started')
+		print(' \033[1;97m[😊]  The process has been started')
 
 		print(' [ðŸ¤«]  use airplane mode if ok ids not come ')
 
@@ -708,9 +708,9 @@ def virus2():
 
 	print(50*'_')
 
-	print(' [ðŸ¤«] Crack process has been completed')
+	print(' [😔] Crack process has been completed')
 
-	print(' [ðŸ¤«] Ids saved in ok.txt,cp.txt')
+	print(' [😔] Ids saved in ok.txt,cp.txt')
 
 	print(50*'_')
 
@@ -776,7 +776,7 @@ def virus3():
 
 	print(' [ðŸ˜­] Crack process has been completed')
 
-	print(' [ðŸ¤£] Ids saved in ok.txt,cp.txt')
+	print(' [😔] Ids saved in ok.txt,cp.txt')
 
 	print(50*'_')
 
@@ -875,7 +875,7 @@ def a(uid,pwx,tl):
 
                 print(f"\r\x1b[38;5;196m[cp] {uid}|{ps}")
 
-                open('/sdcard/JUBU1Ã—1-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                open('/sdcard/JUBU1—1-CP.txt', 'a').write( uid+' | '+ps+' \n')
 
                 cps.append(uid)
 
@@ -968,7 +968,7 @@ def b(uid,pwx,tl):
 
                 cid = coki[65:80]
 
-                print(f'\r\33[1;92m [JUBU-OKðŸ˜˜] '+cid+' | '+ps+'\33[0;92m')
+                print(f'\r\33[1;92m [JUBU-OK˜˜] '+cid+' | '+ps+'\33[0;92m')
 
                 print(f'\r\33[1;92m [ðŸ”¢] Number : {uid}')
 
