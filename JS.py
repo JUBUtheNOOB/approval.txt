@@ -694,7 +694,7 @@ def virus2():
 
 		print(' \033[1;97m[😊]  The process has been started')
 
-		print(' [ðŸ¤«]  use airplane mode if ok ids not come ')
+		print(' [😊]  use airplane mode if ok ids not come ')
 
 		print(50*'_')
 
