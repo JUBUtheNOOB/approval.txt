@@ -334,9 +334,9 @@ def menu_apikey():
    |
    |=============================================================""")
 
-  print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU ðŸ˜ˆ\033[1;37m ")
+  print(f"\t \033[1;32m UPORAR LALHA GULA PORA TARPOR..\033[1;37m ")
 
-  print(f"")
+  print(f"\t \033[1;32m WHATSAPP BA FACEBOOK A JOGAJOK KORUN \033[1;37m ")
 
   print(f"\t \033[1;32m WHATSAPP A KAU PHONE DIBAN NA ONLY SMS AND SEND KEY\033[1;37m ")
 
@@ -346,7 +346,7 @@ def menu_apikey():
 
   print(f"")
 
-  print(f"\t \033[1;32m  FIRST GET APPROVEL 5Day 30TK\033[1;37m ")
+  print(f"\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
 
   print(f"")
 
