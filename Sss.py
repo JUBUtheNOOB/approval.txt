@@ -305,11 +305,11 @@ def menu_apikey():
   ____) | (_| | |   < (_) | | |  | | (_| |   <  __/ |
  |_____/ \__,_|_|_|\_\___/  |_|  |_|\__,_|_|\_\___|_|   
 
-
-
       BOOM UPDATE💥
 
-      ACTIVE ALL TIME...
+      ACTIVEALL TIME...
+
+      50% ID APK🎮 20% NEW ID😑  30% LOCK ID😔
                                                         
 
      PAID BRO... 😘                                                     
@@ -320,7 +320,7 @@ def menu_apikey():
 
    |========================================================================
    |
-   |   [😎] AUTHOR   : Saiko Haker 
+   |    [😎] AUTHOR   : Saiko Haker 
    |
    |    [😎] GITHUB   : JUBU the NOOB 
    |
@@ -330,9 +330,9 @@ def menu_apikey():
    |
    |    [😎] VERSION  :  2.1 ✔                 
    |
-   |    [😎] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37mâ”‚
+   |    [😎] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m
    |
-   |=======================================================================˜""")
+   |=======================================================================""")
 
   print(f"\t \033[1;32m NAMTA MONE RAKHBEN SAIKO HAKER JUBU ðŸ˜ˆ\033[1;37m ")
 
@@ -430,13 +430,13 @@ logo=(f"""\x1b[1;97m
     BOOM💥
 
     IF ID NOT COME CHANGE YOUR IP ADDRESS THEN RUN AGAIN
-                                                        
+    IP CHANGED BY ”IP CHANGE APP”                                 
 
                                                         
 
 
 
-   |===========================================================================
+   |====================================================================
    |
    |  [☞] AUTHOR   : Saiko Haker ☆☆        
    |
@@ -448,9 +448,9 @@ logo=(f"""\x1b[1;97m
    |
    |  [☞] VERSION  : 2.1  ✔  
    |
-   |  [☞] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37mâ”‚
+   |  [☞] TOOLS    : \033[1;32m RANDOM NUMBER CLONER  \033[1;37m
    |
-   |==========================================================================˜""")
+   |====================================================================""")
 
 def cek_apk(session,coki):
 
@@ -726,7 +726,7 @@ def virus3():
 
 	print(" Sim code Example : 016, 017, 018, 019")
 
-	kode = input(' [ðŸ’€] Enter sim code: ')
+	kode = input(' [☞] Enter sim code: ')
 
 	doamin = ' BD Number id cloner [APK] '
 
@@ -833,7 +833,7 @@ def a(uid,pwx,tl):
     'accept-language': 'en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'max-age=0',
     'content-type': 'application/x-www-form-urlencoded',
-    # 'cookie': 'datr=YTJMZFOcnKi4VAaZzuSrG1uW; sb=YTJMZNPL5TwJScZxHfabSew_; wd=980x1840; dpr=1.7000000476837158; fr=0YF2Qwlq9MR8r0UTf..BkTDJh.Vx.AAA.0.0.BkT2yd.AWVzSd_IsdM',
+
     'origin': 'https://mbasic.facebook.com',
     'referer': 'https://mbasic.facebook.com/login/?next=https%3A%2F%2Fmbasic.facebook.com%2Fhome.php%3Frefid%3D13&li=qm9PZHYq3bCaVrtmmItKUziZ&e=1348029&shbl=1&refsrc=deprecated&_rdr',
     'sec-ch-ua': '"Google Chrome";v="112", "Chromium";v="112", "Not=A?Brand";v="24"',
@@ -944,7 +944,7 @@ def b(uid,pwx,tl):
     'accept-language': 'en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'max-age=0',
     'content-type': 'application/x-www-form-urlencoded',
-    # 'cookie': 'datr=YTJMZFOcnKi4VAaZzuSrG1uW; sb=YTJMZNPL5TwJScZxHfabSew_; wd=980x1840; dpr=1.7000000476837158; fr=0YF2Qwlq9MR8r0UTf..BkTDJh.Vx.AAA.0.0.BkT2yd.AWVzSd_IsdM',
+
     'origin': 'https://mbasic.facebook.com',
     'referer': 'https://mbasic.facebook.com/login/?next=https%3A%2F%2Fmbasic.facebook.com%2Fhome.php%3Frefid%3D13&li=qm9PZHYq3bCaVrtmmItKUziZ&e=1348029&shbl=1&refsrc=deprecated&_rdr',
     'sec-ch-ua': '"Google Chrome";v="112", "Chromium";v="112", "Not=A?Brand";v="24"',
@@ -1041,7 +1041,7 @@ def c(uid,pwx,tl):
     'accept-language': 'en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
     'cache-control': 'max-age=0',
     'content-type': 'application/x-www-form-urlencoded',
-    # 'cookie': 'datr=YTJMZFOcnKi4VAaZzuSrG1uW; sb=YTJMZNPL5TwJScZxHfabSew_; wd=980x1840; dpr=1.7000000476837158; fr=0YF2Qwlq9MR8r0UTf..BkTDJh.Vx.AAA.0.0.BkT2yd.AWVzSd_IsdM',
+
     'origin': 'https://mbasic.facebook.com',
     'referer': 'https://mbasic.facebook.com/login/?next=https%3A%2F%2Fmbasic.facebook.com%2Fhome.php%3Frefid%3D13&li=qm9PZHYq3bCaVrtmmItKUziZ&e=1348029&shbl=1&refsrc=deprecated&_rdr',
     'sec-ch-ua': '"Google Chrome";v="112", "Chromium";v="112", "Not=A?Brand";v="24"',
