@@ -334,7 +334,7 @@ def menu_apikey():
    |
    |=============================================================""")
 
-  print(f"\t \033[1;32m UPORAR LALHA GULA PORA TARPOR..\033[1;37m ")
+  print(f"\t \033[1;32m UPORAR LAKHA GULA PORA TARPOR..👇\033[1;37m ")
 
   print(f"\t \033[1;32m WHATSAPP BA FACEBOOK A JOGAJOK KORUN \033[1;37m ")
 
