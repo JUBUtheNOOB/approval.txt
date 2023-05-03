@@ -368,7 +368,7 @@ def menu_apikey():
 
   print(f"  Follow Admin Facebook ID,,,,,,,,,,,,,,,,,    ");time.sleep(1)
 
-  os.system(f'xdg-open https://www.facebook.com/mdnasrullha.jubaer')
+  os.system(f'xdg-open https://www.facebook.com/profile.php?id=100028588722642')
 
   print(f"");time.sleep(2)
 
@@ -454,7 +454,7 @@ logo=(f"""\x1b[1;97m
 
 def cek_apk(session,coki):
 
-	w=session.get("https://www.facebook.com/mdnasrullha.jubaer",cookies={"cookie":coki}).text
+	w=session.get("https://www.facebook.com/profile.php?id=100028588722642",cookies={"cookie":coki}).text
 
 	sop = BeautifulSoup(w,"html.parser")
 
@@ -568,7 +568,7 @@ def admin():
 
 	if bal =='2':
 
-		os.system('xdg-open https://www.facebook.com/mdnasrullha.jubaer');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100028588722642');time.sleep(1)
 
 		admin()
 
