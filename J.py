@@ -300,7 +300,7 @@ import requests,os
 fuckx=str(input("\033[1;97m[\033[92;1m?\033[1;97m]ENTER YOUR NAME :\033[1;97m "))
 name=fuckx.upper()
 print ('')
-Print ('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mWELCOME MY TOOLS  '+name)
+psb('\033[1;97m[\033[92;1m•\033[1;97m]\033[1;97mWELCOME MY TOOLS  '+name)
 print('')
 print('\033[1;93mTOOLS UPDATE SUCCESSFUL ')
 print('')
