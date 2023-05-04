@@ -22,7 +22,7 @@ from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import mechanize
 from requests.exceptions import ConnectionError
 import string
-try:
+
 
 #python 
 #pythonprogramming 
